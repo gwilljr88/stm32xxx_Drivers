@@ -1,0 +1,12 @@
+.DS_Store
+.cache/
+.settings/
+Debug/
+Original Drivers/
+Release/
+STM32F407VGTX_RAM.ld
+build/
+makefile.old
+notes.txt
+stm32f4xx.sublime-project
+stm32f4xx.sublime-workspace
